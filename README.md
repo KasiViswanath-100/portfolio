@@ -6,7 +6,6 @@
 
 - B.Tech in Computer Science and Engineering (AI-ML) | Kalasalingam Academy of Research and Education *(September, 2020 - Present)*
 - Intermediate | Narayana Junior College *(2018-2020)*\
-Grade - 97.8 %
 
 ## Technical Skills
 - Python - ⭐⭐⭐⭐
