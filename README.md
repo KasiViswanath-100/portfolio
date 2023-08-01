@@ -1,7 +1,7 @@
 # Kasi Viswanath Nilla's Portfolio
 
 ## Professional Summary
-With a strong passion for technology, I am a highly motivated computer science student and eagerly waiting to put my theoretical knowledge to contribute in real time innovative projects. Has extradinory soft skills, can work in teams and produce outstanding results. 
+With a strong passion for technology, I am a highly motivated computer science student and am eagerly waiting to put my theoretical knowledge to work in real-time on innovative projects. Has extraordinary soft skills, can work in teams, and produces outstanding results.
 ## Education
 
 - B.Tech in Computer Science and Engineering (AI-ML) | Kalasalingam Academy of Research and Education *(September, 2020 - Present)*
